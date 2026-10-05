@@ -28,17 +28,19 @@ The full script is about 570 words, so about 5 minutes at a calm pace. Say the *
 
 Toastmaster of the day, fellow Toastmasters, and dear guests.
 
-You just heard "hello" in four languages: Russian, Uzbek, Korean, and English. My name is Azizjon. *(pause)* Azizjon Kasimov. I am from Uzbekistan, and I am an AI engineer here in Daejeon. I am also learning Italian, but my Italian is still loading. *(pause)*
+You just heard "hello" in four languages: Russian, Uzbek, Korean, and English. My name is Azizjon. *(pause)* Azizjon Kasimov. I am from Uzbekistan, and I am an AI engineer here in Daejeon.
 
 Here is something strange. Russian is my first language. I grew up with it. **But now, speaking Russian is hard for me.** How did that happen? Let me tell you about my two worlds.
 
-### 2. My first world · 0:55
+### 2. My first world · 0:50
 
 *Step to your right side (the past).*
 
-I grew up in Tashkent, the capital of Uzbekistan, in a Russian-speaking family. At home, everything was in Russian. My family, my childhood, my first memories. All in Russian. I also speak Uzbek, the language of my country.
+I grew up in Tashkent, the capital of Uzbekistan, in a Russian-speaking family. At home, everything was in Russian. My family, my childhood, my first memories. All in Russian.
 
-That was my first world. For me, it was just normal. I never thought about it. When you live inside a language, you don't see it. A fish does not see the water.
+And Uzbek, the language of my country? Yes, I said "Salom" at the start. But I can barely speak Uzbek. *(pause, small shrug)*
+
+So my first world was in Russian. For me, it was just normal. I never thought about it. When you live inside a language, you don't see it. A fish does not see the water.
 
 ### 3. My second world · 1:30
 
@@ -84,8 +86,8 @@ I started with "hello" in four languages. Let me finish with "thank you" in four
 
 Print this part and keep it on the lectern. Say the opening and the closing word for word. For the middle, just follow the keywords.
 
-1. **0:00 · Hello in four languages.** Привет, Salom, 안녕하세요, Hello. Name twice. AI engineer. Italian "still loading". Strange: Russian is hard now. Two worlds.
-2. **0:55 · First world (step right).** Tashkent. Russian family: home, childhood, memories. Uzbek. Just normal. A fish does not see the water.
+1. **0:00 · Hello in four languages.** Привет, Salom, 안녕하세요, Hello. Name twice. AI engineer. Strange: Russian is hard now. Two worlds.
+2. **0:50 · First world (step right).** Tashkent. Russian family: home, childhood, memories. Uzbek? Barely speak it. Just normal. A fish does not see the water.
 3. **1:30 · Second world (walk left).** Woosong. Korean: 아직 공부 중이에요. English for work. Solar, data, prices. Python: perfect listener, "Error." English is my life language: friends, new people, girlfriend.
 4. **2:45 · The strange part (center).** Russian years feel like another world. Search for words. First language became my second. Language changes, world changes.
 5. **3:25 · Something new.** Not a new language, a new feeling. Easier, fun. Global Tech Coffee. Teaching English. Step by step.
@@ -140,9 +142,9 @@ Three things matter most: slow down on the bold lines, wait for laughs, and use 
 
 The audience reads your story from their left (the past) to their right (the present), like a line of text. That is why you stand on your own right side for Tashkent.
 
-- **Wait for laughs.** After "still loading", after "Error.", and after "much more kindly". Do not talk over the laugh.
+- **Wait for laughs.** After "I can barely speak Uzbek", after "Error.", and after "much more kindly". Do not talk over the laugh.
 - **Slow down on the bold lines.** Pause before and after each one. These are the lines people will remember.
-- **Three simple gestures.** Draw a small circle in the air for "still loading". Point back to the past side for the Russian years. Open both hands to the audience for "sharing my world with other people".
+- **Three simple gestures.** Shrug a little and smile for "I can barely speak Uzbek". Point back to the past side for the Russian years. Open both hands to the audience for "sharing my world with other people".
 - **Eye contact.** Say each opening "hello" to a different person. After that, finish each sentence looking at one person, then move to another part of the room.
 - **Clear sounds on repeated words.** You say "language" 17 times and "world" 8 times, so give them a clear W: LANG-gwij, wurld.
 - **Notes are fine.** Keep the cue card on the lectern. If you lose your place, look down, smile, and go on. Nobody else knows your script.
