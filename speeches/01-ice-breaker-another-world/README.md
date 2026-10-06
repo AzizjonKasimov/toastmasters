@@ -84,16 +84,20 @@ I started with "hello" in four languages. Let me finish with "thank you" in four
 
 ## Cue card
 
-Print this part and keep it on the lectern. Say the opening and the closing word for word. For the middle, just follow the keywords.
+Print this part and keep it on the lectern. Say the opening and the closing word for word. For each part, answer its question in your own words. Start with the first line, and don't skip the must-say words.
 
-1. **0:00 · Hello in four languages.** Привет, Salom, 안녕하세요, Hello. Name twice. AI engineer. Strange: Russian is hard now. Two worlds.
-2. **0:50 · First world (step right).** Tashkent. Russian family: home, childhood, memories. Uzbek? Barely speak it. Just normal. A fish does not see the water.
-3. **1:30 · Second world (walk left).** Woosong. Korean: 아직 공부 중이에요. English for work. Solar, data, prices. Python: perfect listener, "Error." English is my life language: friends, new people, girlfriend.
-4. **2:45 · The strange part (center).** Russian years feel like another world. Search for words. First language became my second. Language changes, world changes.
-5. **3:25 · Something new.** Not a new language, a new feeling. Easier, fun. Global Tech Coffee. Teaching English. Step by step.
-6. **4:05 · Why I am here.** More of that feeling. Guest three times, then joined with my girlfriend. Every role. "Like Python, but more kindly." Share my world. Thank you in four languages.
+| Part | Stand | Question | Start with | Must say |
+| --- | --- | --- | --- | --- |
+| 1 · 0:00 | Center | Who am I? | "Привет. Salom. 안녕하세요. Hello." | name twice · AI engineer · Russian is hard now |
+| 2 · 0:50 | Your right | Where did I start? | "I grew up in Tashkent, in a Russian-speaking family." | barely speak Uzbek · fish and water |
+| 3 · 1:30 | Your left | What changed in Korea? | "Then I came to Korea to study at Woosong University." | Korean, still learning · Python "Error" · life language |
+| 4 · 2:45 | Center | What feels strange now? | "And here is the strange part." | search for words · first language became my second · language changes, world changes |
+| 5 · 3:25 | Center | What is new this year? | "But recently, I noticed one more change." | a new feeling · Global Tech Coffee · teaching English |
+| 6 · 4:05 | Center | Why am I here? | "I want more of that feeling." | guest three times · every role · like Python, but kinder · closing by heart |
 
 The green light (4:00) should come around part 6. If you see yellow (5:00) before part 6, jump straight to "Every language gave me a new world."
+
+**How to practice with this card:** take one part at a time. Read that part of the script once, then close it. Look only at the card and tell the part in your own words. Check the script for what you missed, and try again. After two or three rounds, the card is enough.
 
 ## Before the meeting
 
