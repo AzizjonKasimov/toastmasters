@@ -2,6 +2,8 @@
 
 By Azizjon Kasimov · Daejeon Toastmasters · prepared Oct 5, 2026
 
+Phone version of the script: [another-world-phone-script.pdf](another-world-phone-script.pdf)
+
 ## At a glance
 
 Your speech is on Saturday, Oct 10, 2026. It must run 4 to 6 minutes, so aim for 5:00.
