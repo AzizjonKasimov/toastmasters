@@ -155,3 +155,8 @@ The audience reads your story from their left (the past) to their right (the pre
 - **Clear sounds on repeated words.** You say "language" 17 times and "world" 8 times, so give them a clear W: LANG-gwij, wurld.
 - **Notes are fine.** Keep the cue card on the lectern. If you lose your place, look down, smile, and go on. Nobody else knows your script.
 - **Nerves are normal.** Before you stand up, breathe out slowly two times. Most members in that room gave an Ice Breaker once too.
+
+## After the speech
+
+- Evaluation: [scores and comments](../../topics/feedback/ice-breaker-evaluation.md)
+- What to work on next: [growth areas](../../topics/feedback/growth-areas.md)
