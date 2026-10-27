@@ -4,7 +4,7 @@ title: Level 1 plan and progress
 tags: [pathways, level-1, plan]
 created: 2026-10-27
 updated: 2026-10-27
-related: [20261027-writing-a-speech-with-purpose, 20261027-vocal-variety-and-body-language, 20261027-evaluation-and-feedback, 20261027-meeting-roles, 20261027-meeting-history, 20261027-growth-areas, 20261027-base-camp-guide]
+related: [20261027-writing-a-speech-with-purpose, 20261027-vocal-variety-and-body-language, 20261027-evaluation-and-feedback, 20261027-meeting-roles, 20261027-meeting-history, 20261027-growth-areas, 20261027-base-camp-guide, 20261027-speech-ideas]
 summary: What is done and what is left in Level 1, the club's rules for it, and the plan by date.
 ---
 
@@ -22,7 +22,7 @@ My path is Presentation Mastery. Level 1 is called "Mastering Fundamentals". It 
 | --- | --- |
 | Table Topics speaker | Done |
 | Ice Breaker | Done, Oct 10, 2026 |
-| Writing a Speech with Purpose | Next: Nov 7, 2026 |
+| Writing a Speech with Purpose | Next: Nov 7, 2026, "Give AI a Job" |
 | Introduction to Vocal Variety and Body Language | Planned: Nov 21, 2026 |
 | Evaluation and Feedback: an upgraded version of one earlier speech | Planned: after the two speeches above |
 | Evaluator role | Done. It counts for Evaluation and Feedback (confirmed by the VP Education) |
@@ -41,8 +41,8 @@ Base Camp also lists Timer or Ah-Counter for Level 1. The VP Education did not m
 
 ## Plan by date
 
-1. **Sat, Nov 7, 2026:** Writing a Speech with Purpose.
-2. **Sat, Nov 21, 2026:** Introduction to Vocal Variety and Body Language.
+1. **Sat, Nov 7, 2026:** Writing a Speech with Purpose: "Give AI a Job". Workbook: [speeches/02-writing-a-speech-with-purpose-give-ai-a-job](../../speeches/02-writing-a-speech-with-purpose-give-ai-a-job/)
+2. **Sat, Nov 21, 2026:** Introduction to Vocal Variety and Body Language. Topic idea: my networking story (see [speech ideas](../ideas/speech-ideas.md)).
 3. **Next free speech slot after that:** Evaluation and Feedback. Give one of the two speeches again, upgraded with its feedback.
 4. **At a meeting where I am not speaking:** Timer or Ah-Counter.
 5. **At the end:** tick the Level 1 checklist on Base Camp and submit Level 1. The steps are in the [Base Camp guide](base-camp-guide.md).
@@ -62,3 +62,4 @@ Base Camp also lists Timer or Ah-Counter for Level 1. The VP Education did not m
 - [Meeting history](../meetings/meeting-history.md) | what I did at each meeting.
 - [Growth areas](../feedback/growth-areas.md) | what to ask each evaluator to watch.
 - [Base Camp guide](base-camp-guide.md) | how to mark projects and the level complete.
+- [Speech ideas](../ideas/speech-ideas.md) | topics for the coming speeches.

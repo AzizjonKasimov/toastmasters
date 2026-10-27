@@ -10,7 +10,7 @@ This repo is also my Toastmasters knowledge base. To find anything, start at [IN
 
 - **Path:** Presentation Mastery, Level 1 (Mastering Fundamentals)
 - **Done:** Table Topics, Ice Breaker, Evaluator
-- **Next:** Writing a Speech with Purpose, on Saturday, Nov 7, 2026
+- **Next:** Writing a Speech with Purpose, "[Give AI a Job](speeches/02-writing-a-speech-with-purpose-give-ai-a-job/)", on Saturday, Nov 7, 2026
 - **Full plan:** [Level 1 plan and progress](topics/pathways/level-1-plan.md)
 
 ## Speeches
@@ -18,6 +18,7 @@ This repo is also my Toastmasters knowledge base. To find anything, start at [IN
 | # | Date | Project | Title | Feedback |
 | --- | --- | --- | --- | --- |
 | 1 | Oct 10, 2026 | Ice Breaker | [Another World](speeches/01-ice-breaker-another-world/) | [Evaluation](topics/feedback/ice-breaker-evaluation.md) |
+| 2 | Nov 7, 2026 (planned) | Writing a Speech with Purpose | [Give AI a Job](speeches/02-writing-a-speech-with-purpose-give-ai-a-job/) | After the speech |
 
 ## What is in this repo
 
@@ -28,6 +29,7 @@ This repo is also my Toastmasters knowledge base. To find anything, start at [IN
 | [topics/feedback](topics/feedback/_topic.md) | The evaluations I received, and my growth areas |
 | [topics/meetings](topics/meetings/_topic.md) | My meeting history, and what each meeting role does |
 | [topics/skills](topics/skills/_topic.md) | How I remember a speech, and how to give an evaluation |
+| [topics/ideas](topics/ideas/_topic.md) | My AI story bank and ideas for future speeches |
 | [templates](templates/) | Templates for a new meeting note and a new speech |
 
 ## What is in each speech folder

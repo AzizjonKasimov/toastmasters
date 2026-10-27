@@ -39,7 +39,7 @@ summary: One sentence. This exact sentence goes in the registry below.
 
 ## Tags
 
-`pathways`, `level-1`, `project`, `plan`, `base-camp`, `meeting`, `roles`, `feedback`, `evaluation`, `skills`, `speech`
+`pathways`, `level-1`, `project`, `plan`, `base-camp`, `meeting`, `roles`, `feedback`, `evaluation`, `skills`, `speech`, `ideas`
 
 ## Registry
 
@@ -66,11 +66,17 @@ summary: One sentence. This exact sentence goes in the registry below.
 - `20261027-remembering-a-speech` | **How I remember a speech** | `topics/skills/remembering-a-speech.md` | The method I use: a cue card with questions, the opening and closing by heart, stage spots, and a one-week practice routine.
 - `20261027-giving-an-evaluation` | **How to give an evaluation** | `topics/skills/giving-an-evaluation.md` | How to prepare, structure and deliver a 2 to 3 minute speech evaluation.
 
+### ideas
+
+- `20261027-ai-story-bank` | **AI story bank** | `topics/ideas/ai-story-bank.md` | Real stories of how I use AI in daily life and work, with the audience each one fits and where I used it.
+- `20261027-speech-ideas` | **Speech ideas** | `topics/ideas/speech-ideas.md` | Topics for my next speeches, which project each one fits, and why.
+
 ## Speech workbooks
 
 | # | Date | Project | Title | Folder |
 | --- | --- | --- | --- | --- |
 | 1 | 2026-10-10 | Ice Breaker | Another World | `speeches/01-ice-breaker-another-world/` |
+| 2 | 2026-11-07 (planned) | Writing a Speech with Purpose | Give AI a Job | `speeches/02-writing-a-speech-with-purpose-give-ai-a-job/` |
 
 ## Templates
 

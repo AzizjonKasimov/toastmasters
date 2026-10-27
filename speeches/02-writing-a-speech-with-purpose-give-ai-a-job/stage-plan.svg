@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 352" width="760" height="352" role="img" aria-label="The three jobs move left to right for the audience" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#8c959f"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="352" rx="12" fill="#ffffff"/>
+  <text x="24" y="30" font-size="15" font-weight="600" fill="#1f2328">The three jobs move left to right for the audience</text>
+  <text x="24" y="52" font-size="11.5" fill="#59636e">The stage as the audience sees it. One or two steps is enough.</text>
+
+  <rect x="24" y="72" width="712" height="196" rx="8" fill="#f6f8fa" stroke="#d1d9e0"/>
+  <text x="40" y="94" font-size="11.5" fill="#59636e">Stage</text>
+
+  <g fill="none" stroke="#8c959f" stroke-width="1.25">
+    <path d="M330 108C300 100 200 100 165 120" marker-end="url(#arrow)"/>
+    <path d="M232 214C262 222 300 222 312 214" marker-end="url(#arrow)"/>
+    <path d="M430 108C460 100 560 100 595 120" marker-end="url(#arrow)"/>
+    <path d="M528 214C500 236 420 244 392 236" marker-end="url(#arrow)"/>
+  </g>
+  <text x="246" y="99" text-anchor="middle" font-size="11" fill="#59636e">1 to 2</text>
+  <text x="272" y="236" text-anchor="middle" font-size="11" fill="#59636e">2 to 3</text>
+  <text x="514" y="99" text-anchor="middle" font-size="11" fill="#59636e">3 to 4</text>
+  <text x="470" y="254" text-anchor="middle" font-size="11" fill="#59636e">4 to 5</text>
+
+  <rect x="40" y="124" width="190" height="106" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/>
+  <text x="135" y="152" text-anchor="middle" font-size="15" font-weight="600" fill="#1f2328">Job 1: Forms</text>
+  <text x="135" y="176" text-anchor="middle" fill="#1f2328">Part 2: the spices</text>
+  <text x="135" y="194" text-anchor="middle" fill="#1f2328">Show one finger</text>
+  <text x="135" y="216" text-anchor="middle" font-size="11.5" fill="#59636e">stand on your right side</text>
+
+  <rect x="285" y="124" width="190" height="106" rx="8" fill="#ddf4ff" stroke="#0969da" stroke-width="2"/>
+  <text x="380" y="152" text-anchor="middle" font-size="15" font-weight="600" fill="#1f2328">Job 2: Posts</text>
+  <text x="380" y="176" text-anchor="middle" fill="#1f2328">Part 3, and start and</text>
+  <text x="380" y="194" text-anchor="middle" fill="#1f2328">finish (parts 1 and 5)</text>
+  <text x="380" y="216" text-anchor="middle" font-size="11.5" fill="#59636e">center, one step forward for 5</text>
+
+  <rect x="530" y="124" width="190" height="106" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/>
+  <text x="625" y="152" text-anchor="middle" font-size="15" font-weight="600" fill="#1f2328">Job 3: People</text>
+  <text x="625" y="176" text-anchor="middle" fill="#1f2328">Part 4: the guest list</text>
+  <text x="625" y="194" text-anchor="middle" fill="#1f2328">Show three fingers</text>
+  <text x="625" y="216" text-anchor="middle" font-size="11.5" fill="#59636e">stand on your left side</text>
+
+  <rect x="24" y="284" width="712" height="44" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/>
+  <text x="380" y="311" text-anchor="middle" fill="#1f2328">Audience: they see job 1, job 2, job 3 from left to right, like a line of text</text>
+</svg>

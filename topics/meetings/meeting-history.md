@@ -26,7 +26,7 @@ One row per meeting. Add the row right after the meeting. For a meeting with a l
 | Date | My role | Notes |
 | --- | --- | --- |
 | Sat, Oct 10, 2026 | Speaker: Ice Breaker, "Another World" | [Evaluation](../feedback/ice-breaker-evaluation.md) |
-| Sat, Nov 7, 2026 | Speaker: Writing a Speech with Purpose (planned) | |
+| Sat, Nov 7, 2026 | Speaker: Writing a Speech with Purpose, "Give AI a Job" (planned) | [Workbook](../../speeches/02-writing-a-speech-with-purpose-give-ai-a-job/) |
 | Sat, Nov 21, 2026 | Speaker: Introduction to Vocal Variety and Body Language (planned) | |
 
 ## Related

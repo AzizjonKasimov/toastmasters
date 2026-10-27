@@ -14,7 +14,7 @@ summary: The project about one clear goal written as one sentence, how to build 
 
 ## Context
 
-The second project in Level 1. The Ice Breaker was "tell us about yourself". This project is "choose one goal and hit it". My speech for it is planned for Nov 7, 2026.
+The second project in Level 1. The Ice Breaker was "tell us about yourself". This project is "choose one goal and hit it". My speech for it is "Give AI a Job" on Nov 7, 2026: [workbook](../../speeches/02-writing-a-speech-with-purpose-give-ai-a-job/).
 
 ## The assignment
 
