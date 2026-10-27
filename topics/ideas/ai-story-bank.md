@@ -20,9 +20,9 @@ I am an AI engineer, and I use AI for many daily jobs that most people don't kno
 
 | Story | What the AI did | Used in |
 | --- | --- | --- |
-| Hard forms in Korean | Our spices from Turkey were held for a plant quarantine check. The AI filled in the Korean government application by itself and found missing answers on other websites. My rule: AI fills, I submit. | Speech 2 |
+| Hard forms in Korean | Our spices from Turkey were held for a plant quarantine check. The AI filled in most of the Korean government application by itself. I logged in myself and showed it where to find my customs number. My rule: AI fills, I submit. | Speech 2 |
 | Posting for my meetup | From my photos and a few lines, it writes posts in Korean and English and posts them on Luma, Facebook and Instagram. It moved 28 old posts to our new Instagram page. For a week it said Instagram was blocking our captions. The real problem was the AI clicking the button the wrong way. | Speech 2 |
-| Who to meet at an event | An event guest list had about a hundred names. The AI checked public LinkedIn profiles and told me who to look for, and why. | Speech 2 |
+| Who to meet at an event | An event guest list had about a hundred names. The AI checked 82 LinkedIn profiles and ranked a top six with reasons. It also grouped people for my job search, for my meetup, and as peers to swap referrals with. It found dead profile links and dropped people who live abroad. | Speech 2 |
 | Visa paperwork | It found which documents I needed and how they should look, helped me fill in the online application, and checked that everything was there. | |
 | One update, four profiles | When my portfolio changes, it updates my profiles on LinkedIn, JobKorea, Saramin and Wanted. | |
 | Moving my app data | My old expense app exported "type" and "amount" columns. The new app wanted one signed amount. The AI converted the file, and the import worked the first time. | |
@@ -37,6 +37,7 @@ I am an AI engineer, and I use AI for many daily jobs that most people don't kno
 | Work reports in formal Korean | A saved set of instructions turns my raw notes into formal Korean and English progress updates for my managers. | |
 | Explaining to non-technical people | The AI built an interactive chart to show colleagues why one pricing method works better than another. | |
 | An AI that works while I sleep | An AI coding tool on a small cloud server that I control from my phone, running scheduled tasks. | |
+| The AI that ignored a warning | While checking the event guest list, LinkedIn warned that I was close to my monthly search limit. The AI kept going and used up the limit until the next month. About 80 people could also see that I viewed their profile. Now its notes tell it to stop and ask me at the first warning. | |
 
 I prepared a developer talk with some of these stories in March 2026.
 
