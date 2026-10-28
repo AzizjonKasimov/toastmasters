@@ -30,6 +30,20 @@ Your speech is on Saturday, Nov 7, 2026. It must run 5 to 7 minutes, so aim for 
 
 My other AI stories are in the [AI story bank](../../topics/ideas/ai-story-bank.md). They are ready for a tech event version of this speech.
 
+## Is this useful to the audience? (checked Oct 28, 2026)
+
+Yes. Letting AI do tasks for you is still rare, especially in Korea.
+
+- **Korea:** in the government's latest survey (2025 data, published March 2026), 44.5% of Koreans had used generative AI. More than half had not.
+- **USA:** about half of adults do not use AI chatbots at all (Pew, February 2026).
+- **AI that does tasks for you:** about 1 in 10 American adults use it regularly (8% to 15%, depending on the survey). 41% of AI users have tried it at least once.
+- **What most people do with AI:** ask questions and get help with writing. In OpenAI's 2025 study, about half of all messages were questions.
+- **Why the rules matter:** about a third of American AI users have let AI act for them without a final check.
+
+The tech crowd in the room may already know some of this, so the opening has a backup line, and the three rules help even experienced users.
+
+Sources: [Menlo Ventures, State of Consumer AI 2026](https://menlovc.com/perspective/2026-the-state-of-consumer-ai/) · [Pew Research, June 2026](https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/) · [Summary of 2026 AI agent surveys](https://peloramarketing.com/blog/how-many-americans-use-ai-agents-2026) · [머니투데이, 2025 인터넷이용실태조사](https://www.mt.co.kr/tech/2026/03/31/2026033111234563860) · [The Register, OpenAI usage study](https://www.theregister.com/2025/09/16/chatgpt_usage_study/)
+
 ## The speech
 
 The full script is about 680 words, so about 6 minutes at a calm pace with pauses. Say the **bold** lines slowly. Lines in *italics* are notes for you, not words to say. Learn the three opening questions and the last three lines by heart.
@@ -44,11 +58,15 @@ Keep it up if you asked AI a question. *(pause)*
 
 Now keep it up only if AI did a job for you. It filled in a form, posted something for you, or clicked through a website for you. *(pause)*
 
-*Most hands go down. Smile.*
+*Most hands go down? Smile and go on. Many hands still up? Use the backup below.*
 
 That is the difference I want to talk about today.
 
 Most people use AI like a very smart search box. You ask, it answers. But today, AI apps like ChatGPT and Claude can do more. They can open a website, click, type, and fill things in. **AI can do the work, not just talk about it.**
+
+> **Backup, if many hands stay up.** Say this instead of the two paragraphs above, then go on with "I am an AI engineer":
+>
+> Great! Then you already know AI can do real work. Today you will get three jobs you may not have tried, and **three rules I learned the hard way.**
 
 I am an AI engineer. But the three jobs I will show you today need no coding at all. You can try every one of them this week.
 
@@ -116,7 +134,7 @@ Print this part and keep it on the lectern. Say the opening and the closing word
 
 | Part | Stand | Question | Start with | Must say |
 | --- | --- | --- | --- | --- |
-| 1 · 0:00 | Center | Who gave AI a job? | "Please raise your hand if you used AI this week." | three hand questions · smart search box · do the work, not just talk · no coding · try it this week |
+| 1 · 0:00 | Center | Who gave AI a job? | "Please raise your hand if you used AI this week." | three hand questions · smart search box (or the backup line) · do the work, not just talk · no coding · try it this week |
 | 2 · 1:20 | Your right | What is job one? | "Job number one: hard forms." | spices from Turkey · FedEx · quarantine · government website · broker for 30,000 won · I helped a little · AI fills, I submit |
 | 3 · 2:35 | Center | What is job two? | "Job number two: posting the same thing in many places." | my meetup · Luma, Facebook, Instagram · Korean and English · 28 old posts · "It was not Instagram. It was my AI." · you are still the manager |
 | 4 · 4:05 | Your left | What is job three? | "Job number three: getting ready to meet people." | about a hundred names · 82 profiles · top six, and why · CEO who teaches at KAIST · two in the UK · people I can help · the conversation is still mine |
@@ -141,6 +159,7 @@ Use these only if they feel right.
 
 - **After job two:** "When I update my CV, it also updates my profile on LinkedIn and three Korean job sites at once." This quietly shows you are open to work.
 - **Before the closing:** "Our club could use job two for our own posts. I'm happy to show anyone how." This connects with the audience and shows you as helpful.
+- **In the opening, before "Most people use AI":** "Last year, less than half of Koreans used AI at all." A real number makes the speech more informative. It adds about 5 seconds.
 
 ## Before the meeting
 
@@ -171,6 +190,7 @@ Ask them to watch two things:
 
 - [ ] Tell the VP Education your Nov 7 speech is "Writing a Speech with Purpose", titled "Give AI a Job". Ask who your evaluator is
 - [ ] Check the facts above and change any line that is not right
+- [ ] Test the topic: ask 3 or 4 club members, or post a one-question poll in your meetup's Telegram group: "Has AI ever filled in a form or posted something for you?"
 - [ ] Fill in the Speech Log on Base Camp and send the form to your evaluator
 - [ ] Send the intro above to the Toastmaster of the day
 - [ ] Print the cue card. Keep the phone PDF for practice
@@ -197,7 +217,7 @@ Three things matter most: get the hands up at the start, wait for the laugh in j
 
 ![Stage plan: 3 spots, seen from the audience](stage-plan.svg)
 
-- **Hands first.** Ask the first question with your own hand up. People copy you. Wait two seconds after each question and react to what you see. If almost nobody raises a hand, smile and say: "Perfect. Then this speech is for you."
+- **Hands first.** Ask the first question with your own hand up. People copy you. Wait two seconds after each question and react to what you see. If almost nobody raises a hand, smile and say: "Perfect. Then this speech is for you." If many hands stay up after the third question, use the backup line in part 1.
 - **Count with your fingers.** One finger for job one, two for job two, three for job three, and all three again at the end. It helps the audience follow, and it helps you remember.
 - **Three spots.** Job one on your right, job two in the center, job three on your left. The audience sees the jobs go from left to right.
 - **Act out the Instagram story.** Look confused at "Instagram is blocking us". Pause. Then say "It was not Instagram. It was my AI." Wait for the laugh. Do not talk over it.
