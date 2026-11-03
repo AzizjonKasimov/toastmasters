@@ -17,7 +17,7 @@ Your speech is on Saturday, Nov 7, 2026. It must run 5 to 7 minutes, so aim for 
 | General purpose | To inform |
 | Specific purpose | After my speech, the audience will know three simple ways to use AI in daily life: filling in hard forms, posting in many places at once, and getting ready to meet people. |
 | Main message | AI is great at boring jobs. Let it do the clicking, so you have more time for people. |
-| Structure | Topical: three jobs. Each job has one real story and one rule |
+| Structure | Topical: three jobs. Each job has one real story, then a "Try it" tip |
 | What the evaluator scores | Clarity, vocal variety, eye contact, gestures, interest and purpose, comfort level, specific purpose, general purpose. See [the project note](../../topics/pathways/writing-a-speech-with-purpose.md) |
 | Please watch | Fewer looks at my notes, and a strong last line. Both come from my [Ice Breaker feedback](../../topics/feedback/ice-breaker-evaluation.md) |
 
@@ -25,7 +25,8 @@ Your speech is on Saturday, Nov 7, 2026. It must run 5 to 7 minutes, so aim for 
 
 - **Useful to anyone.** Everyone fights hard forms, posts the same thing twice, or walks into a room of strangers. None of it needs coding.
 - **Real stories.** Every job is something I really did, so it is easy to remember and easy to tell.
-- **A pro, without bragging.** Each job ends with a rule that only an experienced user knows: check before you submit, check the AI's work, and do the human part yourself. The Toastmaster's intro says what I do, so I never have to.
+- **Useful right away.** Each job ends with "Try it": one simple step the audience can do this week, with the exact words to tell the AI. This is what makes it an inform speech.
+- **A pro, without bragging.** The stories show what you can do, and the Instagram bug shows you know where AI fails. The Toastmaster's intro says what you do, so you never have to.
 - **A clear path.** From stress (forms), to busywork (posts), to people. The ending ties them together.
 
 My other AI stories are in the [AI story bank](../../topics/ideas/ai-story-bank.md). They are ready for a tech event version of this speech.
@@ -38,9 +39,9 @@ Yes. Letting AI do tasks for you is still rare, especially in Korea.
 - **USA:** about half of adults do not use AI chatbots at all (Pew, February 2026).
 - **AI that does tasks for you:** about 1 in 10 American adults use it regularly (8% to 15%, depending on the survey). 41% of AI users have tried it at least once.
 - **What most people do with AI:** ask questions and get help with writing. In OpenAI's 2025 study, about half of all messages were questions.
-- **Why the rules matter:** about a third of American AI users have let AI act for them without a final check.
+- **Why the "check it" tips matter:** about a third of American AI users have let AI act for them without a final check.
 
-The tech crowd in the room may already know some of this, so the opening has a backup line, and the three rules help even experienced users.
+The tech crowd in the room may already know some of this, so the opening has a backup line, and the "Try it" tips help even experienced users.
 
 Sources: [Menlo Ventures, State of Consumer AI 2026](https://menlovc.com/perspective/2026-the-state-of-consumer-ai/) · [Pew Research, June 2026](https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/) · [Summary of 2026 AI agent surveys](https://peloramarketing.com/blog/how-many-americans-use-ai-agents-2026) · [머니투데이, 2025 인터넷이용실태조사](https://www.mt.co.kr/tech/2026/03/31/2026033111234563860) · [The Register, OpenAI usage study](https://www.theregister.com/2025/09/16/chatgpt_usage_study/)
 
@@ -66,7 +67,7 @@ Most people use AI like a very smart search box. You ask, it answers. But today,
 
 > **Backup, if many hands stay up.** Say this instead of the two paragraphs above, then go on with "I am an AI engineer":
 >
-> Great! Then you already know AI can do real work. Today you will get three jobs you may not have tried, and **three rules I learned the hard way.**
+> Great! Then you already know AI can do real work. Today you will get three jobs you may not have tried, and **exactly how to try them.**
 
 I am an AI engineer. But the three jobs I will show you today need no coding at all. You can try every one of them this week.
 
@@ -84,7 +85,7 @@ The form was all in Korean. Only one or two pages, but so many boxes to fill in,
 
 So I gave this job to AI. I let it take over my browser, and it filled in the boxes and picked the options. I only helped a little. I logged in myself, and I showed it where to find my customs number. **The rest, it did by itself.** *(pause)*
 
-But I have one rule. **AI fills, I submit.** Before I press the button, I check everything. Because my name is on that form, not the AI's.
+**Try it:** log in yourself, and tell the AI: "Fill in this form. Ask me if anything is unclear." Then check every box before you press Submit.
 
 ### 3. Job two: posting everywhere · 2:45
 
@@ -98,9 +99,9 @@ Now I give AI the photos and a few lines about what happened. It writes the post
 
 But here is my favorite part. For a whole week, the captions on our Instagram posts kept disappearing. The AI told me: "Instagram is blocking us." And I believed it. *(pause)* Then I looked closer. **It was not Instagram. It was my AI.** It was pressing the button the wrong way. *(wait for the laugh)*
 
-**AI is a fast worker. But you are still the manager.** Check its work.
+**Try it:** let AI post for you. Just check the first few posts yourself.
 
-### 4. Job three: meeting people · 4:10
+### 4. Job three: meeting people · 4:15
 
 *Walk to your left side. Show three fingers.*
 
@@ -110,11 +111,11 @@ I love meeting people. I love connecting them and helping them. But big events a
 
 Before, I would just walk in and talk to whoever was standing next to me. This time, I gave the list to AI. It checked 82 LinkedIn profiles. Then it gave me my top six, in order, and why. One of them was the CEO of an AI company who also teaches at KAIST, right here in Daejeon. It even told me who to skip, like two people who actually live in the UK. *(smile)*
 
-So I walked in knowing who to say hello to. *(pause)*
+So I walked in knowing who to say hello to.
 
-**AI can find the right people. But making friends is still my job.**
+**Try it:** before your next event, give AI the guest list and ask: "Who should I talk to, and why?"
 
-### 5. Three jobs, one rule · 5:30
+### 5. Three jobs to try · 5:30
 
 *Come back to the center and take one step forward. Count the jobs on your fingers.*
 
@@ -135,9 +136,9 @@ Print the one-page version, [give-ai-a-job-cue-card.pdf](give-ai-a-job-cue-card.
 | Part | Stand | Question | Start with | Must say |
 | --- | --- | --- | --- | --- |
 | 1 · 0:00 | Center | Who gave AI a job? | "Please raise your hand if you used AI this week." | three hand questions · smart search box (or the backup line) · do the work, not just talk · no coding · try it this week |
-| 2 · 1:20 | Your right | What is job one? | "Job number one: hard forms." | spices from Turkey · FedEx · quarantine · government website · broker for 30,000 won · I helped a little · AI fills, I submit |
-| 3 · 2:45 | Center | What is job two? | "Job number two: posting the same thing in many places." | my meetup · Luma, Facebook, Instagram · Korean and English · 28 old posts · "It was not Instagram. It was my AI." · you are still the manager |
-| 4 · 4:10 | Your left | What is job three? | "Job number three: getting ready to meet people." | about a hundred names · 82 profiles · top six, and why · CEO who teaches at KAIST · two in the UK · making friends is still my job |
+| 2 · 1:20 | Your right | What is job one? | "Job number one: hard forms." | spices from Turkey · FedEx · quarantine · government website · broker for 30,000 won · I helped a little · try it: log in, let AI fill, check, press Submit |
+| 3 · 2:45 | Center | What is job two? | "Job number two: posting the same thing in many places." | my meetup · Luma, Facebook, Instagram · Korean and English · 28 old posts · "It was not Instagram. It was my AI." · try it: check the first few posts |
+| 4 · 4:15 | Your left | What is job three? | "Job number three: getting ready to meet people." | about a hundred names · 82 profiles · top six, and why · CEO who teaches at KAIST · two in the UK · try it: who should I talk to, and why? |
 | 5 · 5:30 | Center, one step forward | What should they remember? | "So, three jobs." | forms · posts · people · AI is great at boring · more time for people · closing by heart |
 
 The green light (5:00) should come during part 4. If you see yellow (6:00) before part 5, jump straight to "So, three jobs."
@@ -222,7 +223,7 @@ Three things matter most: get the hands up at the start, wait for the laugh in j
 - **Three spots.** Job one on your right, job two in the center, job three on your left. The audience sees the jobs go from left to right.
 - **Act out the Instagram story.** Look confused at "Instagram is blocking us". Pause. Then say "It was not Instagram. It was my AI." Wait for the laugh. Do not talk over it.
 - **Smile at "the UK".** "Two people who actually live in the UK" is a small joke. Smile, pause for a second, then go on.
-- **Slow down on the rules.** "AI fills, I submit." "You are still the manager." "Making friends is still my job." These are the lines people will remember.
+- **Slow down on "Try it".** Pause before each "Try it" line and look at the audience. These are the steps people will take home.
 - **Land the ending.** After "I hope your hand stays up", pause. Say the last line slowly and a little louder. Pause again. Then say "Thank you." Your Ice Breaker feedback asked for a strong punchline. This is it.
 - **No tech words.** Do not say agent, model or prompt. Say "AI", "ask" and "tell". Your evaluator scores clarity.
 - **Hard words:** quarantine (KWOR-un-teen), sumac (SOO-mak), caption (KAP-shun).
