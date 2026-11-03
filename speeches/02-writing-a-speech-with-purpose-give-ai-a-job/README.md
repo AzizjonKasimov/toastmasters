@@ -25,7 +25,7 @@ Your speech is on Saturday, Nov 7, 2026. It must run 5 to 7 minutes, so aim for 
 
 - **Useful to anyone.** Everyone fights hard forms, posts the same thing twice, or walks into a room of strangers. None of it needs coding.
 - **Real stories.** Every job is something I really did, so it is easy to remember and easy to tell.
-- **A pro, without bragging.** Each job ends with a rule that only an experienced user knows: check before you submit, check the AI's work, and keep the conversation human. The Toastmaster's intro says what I do, so I never have to.
+- **A pro, without bragging.** Each job ends with a rule that only an experienced user knows: check before you submit, check the AI's work, and do the human part yourself. The Toastmaster's intro says what I do, so I never have to.
 - **A clear path.** From stress (forms), to busywork (posts), to people. The ending ties them together.
 
 My other AI stories are in the [AI story bank](../../topics/ideas/ai-story-bank.md). They are ready for a tech event version of this speech.
@@ -80,13 +80,13 @@ This summer, my girlfriend and I ordered spices from Turkey. Sumac, red pepper, 
 
 Then FedEx sent us an email. Our spices were stuck. They needed a plant quarantine check first. To get them out, we had to apply on a Korean government website. Or pay a broker 30,000 won.
 
-The website was all in Korean. Many pages, many boxes.
+The form was all in Korean. Only one or two pages, but so many boxes to fill in, and so many options to choose from.
 
-So I gave this job to AI. I let it take over my browser, and it filled in the form page by page. I only helped a little. I logged in myself, and I showed it where to find my customs number. **The rest, it did by itself.** *(pause)*
+So I gave this job to AI. I let it take over my browser, and it filled in the boxes and picked the options. I only helped a little. I logged in myself, and I showed it where to find my customs number. **The rest, it did by itself.** *(pause)*
 
 But I have one rule. **AI fills, I submit.** Before I press the button, I check everything. Because my name is on that form, not the AI's.
 
-### 3. Job two: posting everywhere · 2:35
+### 3. Job two: posting everywhere · 2:45
 
 *Walk back to the center. Show two fingers.*
 
@@ -100,7 +100,7 @@ But here is my favorite part. For a whole week, the captions on our Instagram po
 
 **AI is a fast worker. But you are still the manager.** Check its work.
 
-### 4. Job three: meeting people · 4:05
+### 4. Job three: meeting people · 4:10
 
 *Walk to your left side. Show three fingers.*
 
@@ -110,9 +110,9 @@ I love meeting people. I love connecting them and helping them. But big events a
 
 Before, I would just walk in and talk to whoever was standing next to me. This time, I gave the list to AI. It checked 82 LinkedIn profiles. Then it gave me my top six, in order, and why. One of them was the CEO of an AI company who also teaches at KAIST, right here in Daejeon. It even told me who to skip, like two people who actually live in the UK. *(smile)*
 
-So I walked in knowing who to say hello to.
+So I walked in knowing who to say hello to. *(pause)*
 
-It only reads what people share in public. And I use it to find people I can help, not to sell. **The AI makes the list. The conversation is still mine.**
+**AI can find the right people. But making friends is still my job.**
 
 ### 5. Three jobs, one rule · 5:30
 
@@ -130,14 +130,14 @@ Thank you.
 
 ## Cue card
 
-Print this part and keep it on the lectern. Say the opening and the closing word for word. For each part, answer its question in your own words. Start with the first line, and don't skip the must-say words.
+Print the one-page version, [give-ai-a-job-cue-card.pdf](give-ai-a-job-cue-card.pdf), and keep it on the lectern. Say the opening and the closing word for word. For each part, answer its question in your own words. Start with the first line, and don't skip the must-say words.
 
 | Part | Stand | Question | Start with | Must say |
 | --- | --- | --- | --- | --- |
 | 1 · 0:00 | Center | Who gave AI a job? | "Please raise your hand if you used AI this week." | three hand questions · smart search box (or the backup line) · do the work, not just talk · no coding · try it this week |
 | 2 · 1:20 | Your right | What is job one? | "Job number one: hard forms." | spices from Turkey · FedEx · quarantine · government website · broker for 30,000 won · I helped a little · AI fills, I submit |
-| 3 · 2:35 | Center | What is job two? | "Job number two: posting the same thing in many places." | my meetup · Luma, Facebook, Instagram · Korean and English · 28 old posts · "It was not Instagram. It was my AI." · you are still the manager |
-| 4 · 4:05 | Your left | What is job three? | "Job number three: getting ready to meet people." | about a hundred names · 82 profiles · top six, and why · CEO who teaches at KAIST · two in the UK · people I can help · the conversation is still mine |
+| 3 · 2:45 | Center | What is job two? | "Job number two: posting the same thing in many places." | my meetup · Luma, Facebook, Instagram · Korean and English · 28 old posts · "It was not Instagram. It was my AI." · you are still the manager |
+| 4 · 4:10 | Your left | What is job three? | "Job number three: getting ready to meet people." | about a hundred names · 82 profiles · top six, and why · CEO who teaches at KAIST · two in the UK · making friends is still my job |
 | 5 · 5:30 | Center, one step forward | What should they remember? | "So, three jobs." | forms · posts · people · AI is great at boring · more time for people · closing by heart |
 
 The green light (5:00) should come during part 4. If you see yellow (6:00) before part 5, jump straight to "So, three jobs."
@@ -148,7 +148,7 @@ The green light (5:00) should come during part 4. If you see yellow (6:00) befor
 
 The stories come from what you told me and from our past chats. If anything changes, fix it here first.
 
-1. **Job one:** the AI filled in most of the quarantine application by itself. You logged in yourself, and you showed it where to find your customs number. The FedEx email also offered a broker for 30,000 won.
+1. **Job one:** the quarantine form had only one or two pages, but many boxes and options. The AI filled in most of it by itself. You logged in yourself, and you showed it where to find your customs number. The FedEx email also offered a broker for 30,000 won.
 2. **Job two:** you post on Luma, Facebook and Instagram for every meetup. The AI moved 28 old Facebook posts to the new Instagram page. The caption problem lasted about a week.
 3. **Job three:** a tech event in Seoul in October, with about a hundred names on the guest list. The AI checked 82 LinkedIn profiles, ranked a top six with reasons, and dropped two people based in the UK. One of the six was the CEO of an AI company who also teaches at KAIST.
 4. **Still open:** the speech names ChatGPT and Claude once. You can say "AI apps" instead.
@@ -193,7 +193,7 @@ Ask them to watch two things:
 - [ ] Test the topic: ask 3 or 4 club members, or post a one-question poll in your meetup's Telegram group: "Has AI ever filled in a form or posted something for you?"
 - [ ] Fill in the Speech Log on Base Camp and send the form to your evaluator
 - [ ] Send the intro above to the Toastmaster of the day
-- [ ] Print the cue card. Keep the phone PDF for practice
+- [ ] Print the cue card PDF. Keep the phone PDF for practice
 - [ ] Ask someone to film your speech on your phone
 - [ ] Arrive 15 minutes early and try the three spots on the stage
 
@@ -222,7 +222,7 @@ Three things matter most: get the hands up at the start, wait for the laugh in j
 - **Three spots.** Job one on your right, job two in the center, job three on your left. The audience sees the jobs go from left to right.
 - **Act out the Instagram story.** Look confused at "Instagram is blocking us". Pause. Then say "It was not Instagram. It was my AI." Wait for the laugh. Do not talk over it.
 - **Smile at "the UK".** "Two people who actually live in the UK" is a small joke. Smile, pause for a second, then go on.
-- **Slow down on the rules.** "AI fills, I submit." "You are still the manager." "The conversation is still mine." These are the lines people will remember.
+- **Slow down on the rules.** "AI fills, I submit." "You are still the manager." "Making friends is still my job." These are the lines people will remember.
 - **Land the ending.** After "I hope your hand stays up", pause. Say the last line slowly and a little louder. Pause again. Then say "Thank you." Your Ice Breaker feedback asked for a strong punchline. This is it.
 - **No tech words.** Do not say agent, model or prompt. Say "AI", "ask" and "tell". Your evaluator scores clarity.
 - **Hard words:** quarantine (KWOR-un-teen), sumac (SOO-mak), caption (KAP-shun).
